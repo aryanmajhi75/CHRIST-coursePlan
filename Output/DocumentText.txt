@@ -1,0 +1,116 @@
+Evaluation Warning: The document was created with Spire.Doc for Python.
+MCA272– Programming Using Java
+Total Teaching Hours for Semester: 90
+Max Marks: 150
+Credits: 5
+Course Objectives
+This course will help the learner to gain sound knowledge in object-oriented principles, GUI application design with database, and enterprise application design with Servlets. 
+Course Outcomes 
+CO1: Understanding and applying the principles of object-oriented programming in the construction of robust, maintainable programs.
+CO2: Analyze the various societal and environmental problems critically to develop solutions using the features of programming language.  
+CO3: Develop sustainable and innovative solutions for real-time problems.
+Unit-1
+Teaching Hours: 18
+INTRODUCTION TO OBJECT ORIENTED PROGRAMMING (OOP) AND CLASSES
+Introduction to Object Oriented Programming (OOP)
+Object-Oriented Programming (OOP) Principles- Class Fundamentals - Declaring Objects - Introducing Methods - Overloading methods – Constructors - Parameterized Constructors - this Keyword.
+Class Features
+Garbage Collection - the finalize () Method - Introducing Access Control - Understanding static - Introducing nested and inner classes - String class - String Buffer Class - Command Line Arguments.
+Lab Exercises:
+1. Identify a domain of your choice, list out ten entities in the domain. For each entity, identify a minimum 10 attributes and assign the data type for each attribute with proper justification.
+2. Implement the concept of class, data members, member functions and access specifiers.
+3. Implement the concept of function overloading & Constructor overloading.
+Unit-2
+Teaching Hours: 18
+INHERITANCE, INTERFACES & PACKAGES AND MULTITHREADING IN JAVA
+Inheritance in Java
+Inheritance Basics - Multilevel Hierarchy- Using super - Method overriding - Dynamic Method Dispatch- Abstract keyword- Using final with inheritance - The Object Class.
+Interfaces and Packages
+Inheritance in java with Interfaces – Defining Interfaces - Implementing Interfaces - Extending Interfaces- Creating Packages - CLASSPATH variable - Access protection - Importing Packages - Interfaces in a Package.
+Multithreading Java
+Thread Model - Life cycle of a Thread - Java Thread Priorities - Runnable interface and Thread Class- Thread Synchronization – Inter Thread Communication.
+Lab Exercises:
+4. Implement String and String Buffer classes.
+5. Implement the concept of inheritance, super, abstract and final keywords.
+6. Implement the concept of package and interface.
+7. Implement the concept of multithreading.
+Unit-3
+Teaching Hours: 18
+GENERICS, LAMBDA AND THE COLLECTIONS FRAMEWORK
+Generics
+Generics Concept - General Form of a Generic Class – Bounded Types – Generic Class Hierarchy - Generic Interfaces – Restrictions in Generics.
+Lambda Expression
+Introduction to Lambda expression- Block Lambda Expressions - Generic Functional Interfaces - Passing lambda expressions as arguments - Lambda expressions and exceptions- Lambda expressions and variable capture.
+The Collections Framework
+The Collections Overview – Collection Interface – List Interface – Set Interface – SortedSet Interface – Queue Interface - ArrayList Class – LinkedList Class – HashSet Class – Using an Iterator – The For Each Statement. Working with maps – The map interfaces, the map classes. Comparators- the collection algorithms 
+Lab Exercises:
+8. Implement the concept of Generics
+9. Implement the concept of the lambda expression
+10. Implement the concept of a collection framework
+Unit-4
+Teaching Hours: 18
+JAVA BEANS AND JDBC 
+JDBC
+Introduction to JDBC- Connecting to the database- Basic JDBC Operations – Essential JDBC Classes – JDBC Drivers – JDBC-ODBC Bridge – Connecting to a database with driver manager – JDBC database URL. 
+JAVA BEANS 
+Java beans - Advantages of Beans – Introspection- Bound and Constrained Properties – Persistence – Customizers - The JavaBeans API. 
+JAVA SWING
+Swing Basics – Components and Containers – JLabel and ImageIcons- JTextField – Swing Buttons – JTabbedPane – JScrollPane – JList – JComboBox – JTable – Swing Menus.
+Lab Exercises:
+11. Implement the concept of JDBC
+12. Implement the concept of java beans
+13. 13. Implement the concept of java swing
+Unit-5
+Teaching Hours: 18
+JAVA SERVLETS & JSP
+JAVA SERVLETS
+Servlets Basics – Life Cycle of a Servlet –A Simple Servlet - The Servlet API – Servlet Interfaces – Generic Servlet Class- HttpServletRequest Interface – HttpServeltResponse
+JSP
+The JSP development model – component of jsp page – Page directive – Action – scriptlet – JSP expression, JSP Syntax and semantics, JSP in XML.
+Lab Exercises:
+14. Implement the concept of java servlets
+15. Implement the concept of JSP
+Text Books and Reference Books
+[1] Schildt Herbert, Java : The Complete Reference, Tata McGraw- Hill, 11 th Edition,2019
+[2] The complete reference JSP 2.0, Tata McGraw- Hill, 2nd Edition, Phil Hanna
+[3] Cay S Horstmann, Core Java Volume 1 Fundamentals, Prentice Hall, 11th Edition, 2018.
+Web Resources:
+1.  https://www.javatpoint.com/java-tutorial
+2.  https://www.geeksforgeeks.org/java/
+CO – PO Mapping
+(please take up the strength mapping here, map your COs to POs at -, 1, 2, and 3)
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+CO1
+3
+2
+2
+2
+-
+-
+1
+2
+CO2
+2
+2
+2
+1
+-
+-
+2
+2
+CO3
+2
+2
+1
+1
+-
+-
+1
+1
