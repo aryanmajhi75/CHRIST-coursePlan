@@ -1,5 +1,5 @@
 {
-    "CourseName-Num": "MCA272\u2013 Programming Using Java",
+    "CourseName-Num": "MCA272– Programming Using Java",
     "Total-Teaching-Hours": "90",
     "Max-Marks": "150",
     "Credits": "5",
@@ -19,85 +19,96 @@
             "Teaching-hours": "18",
             "Title": "INTRODUCTION TO OBJECT ORIENTED PROGRAMMING (OOP) AND CLASSES",
             "Contents": [
-                "Introduction to Object Oriented Programming (OOP)\nObject-Oriented Programming (OOP) Principles- Class Fundamentals - Declaring Objects - Introducing Methods - Overloading methods \u2013 Constructors - Parameterized Constructors - this Keyword.",
-                "Class Features\nGarbage Collection - the finalize () Method - Introducing Access Control - Understanding static - Introducing nested and inner classes - String class - String Buffer Class - Command Line Arguments.",
-                "Lab Exercises:\n1.",
-                "Identify a domain of your choice, list out ten entities in the domain.",
-                "For each entity, identify a minimum 10 attributes and assign the data type for each attribute with proper justification.",
-                "2.",
-                "Implement the concept of class, data members, member functions and access specifiers.",
-                "3.",
-                "Implement the concept of function overloading & Constructor overloading."
+                "Unit-1",
+                "Teaching Hours: 18",
+                "INTRODUCTION TO OBJECT ORIENTED PROGRAMMING (OOP) AND CLASSES",
+                "Introduction to Object Oriented Programming (OOP)",
+                "Object-Oriented Programming (OOP) Principles- Class Fundamentals - Declaring Objects - Introducing Methods - Overloading methods – Constructors - Parameterized Constructors - this Keyword.",
+                "Class Features",
+                "Garbage Collection - the finalize () Method - Introducing Access Control - Understanding static - Introducing nested and inner classes - String class - String Buffer Class - Command Line Arguments."
             ],
             "Lab-exercises": [
-                "1. Identify a domain of your choice, list out ten entities in the domain. For each entity, identify a minimum 10 attributes and assign the data type for each attribute with proper justification.\n2. Implement the concept of class, data members, member functions and access specifiers.\n3. Implement the concept of function overloading & Constructor overloading.\n"
+                "1. Identify a domain of your choice, list out ten entities in the domain. For each entity, identify a minimum 10 attributes and assign the data type for each attribute with proper justification.",
+                "2. Implement the concept of class, data members, member functions and access specifiers.",
+                "3. Implement the concept of function overloading & Constructor overloading."
             ]
         },
         {
             "Teaching-hours": "18",
             "Title": "INHERITANCE, INTERFACES & PACKAGES AND MULTITHREADING IN JAVA",
             "Contents": [
-                "Inheritance in Java\nInheritance Basics - Multilevel Hierarchy- Using super - Method overriding - Dynamic Method Dispatch- Abstract keyword- Using final with inheritance - The Object Class.",
-                "Interfaces and Packages\nInheritance in java with Interfaces \u2013 Defining Interfaces - Implementing Interfaces - Extending Interfaces- Creating Packages - CLASSPATH variable - Access protection - Importing Packages - Interfaces in a Package.",
-                "Multithreading Java\nThread Model - Life cycle of a Thread - Java Thread Priorities - Runnable interface and Thread Class- Thread Synchronization \u2013 Inter Thread Communication.",
-                "Lab Exercises:\n4.",
-                "Implement String and String Buffer classes.",
-                "5.",
-                "Implement the concept of inheritance, super, abstract and final keywords.",
-                "6.",
-                "Implement the concept of package and interface.",
-                "7.",
-                "Implement the concept of multithreading."
+                "Unit-2",
+                "Teaching Hours: 18",
+                "INHERITANCE, INTERFACES & PACKAGES AND MULTITHREADING IN JAVA",
+                "Inheritance in Java",
+                "Inheritance Basics - Multilevel Hierarchy- Using super - Method overriding - Dynamic Method Dispatch- Abstract keyword- Using final with inheritance - The Object Class.",
+                "Interfaces and Packages",
+                "Inheritance in java with Interfaces – Defining Interfaces - Implementing Interfaces - Extending Interfaces- Creating Packages - CLASSPATH variable - Access protection - Importing Packages - Interfaces in a Package.",
+                "Multithreading Java",
+                "Thread Model - Life cycle of a Thread - Java Thread Priorities - Runnable interface and Thread Class- Thread Synchronization – Inter Thread Communication."
             ],
             "Lab-exercises": [
-                "4. Implement String and String Buffer classes.\n5. Implement the concept of inheritance, super, abstract and final keywords.\n6. Implement the concept of package and interface.\n7. Implement the concept of multithreading.\n"
+                "4. Implement String and String Buffer classes.",
+                "5. Implement the concept of inheritance, super, abstract and final keywords.",
+                "6. Implement the concept of package and interface.",
+                "7. Implement the concept of multithreading."
             ]
         },
         {
             "Teaching-hours": "18",
             "Title": "GENERICS, LAMBDA AND THE COLLECTIONS FRAMEWORK",
             "Contents": [
-                "Generics\nGenerics Concept - General Form of a Generic Class \u2013 Bounded Types \u2013 Generic Class Hierarchy - Generic Interfaces \u2013 Restrictions in Generics.",
-                "Lambda Expression\nIntroduction to Lambda expression- Block Lambda Expressions - Generic Functional Interfaces - Passing lambda expressions as arguments - Lambda expressions and exceptions- Lambda expressions and variable capture.",
-                "The Collections Framework\nThe Collections Overview \u2013 Collection Interface \u2013 List Interface \u2013 Set Interface \u2013 SortedSet Interface \u2013 Queue Interface - ArrayList Class \u2013 LinkedList Class \u2013 HashSet Class \u2013 Using an Iterator \u2013 The For Each Statement.",
-                "Working with maps \u2013 The map interfaces, the map classes.",
-                "Comparators- the collection algorithms \nLab Exercises:\n8.",
-                "Implement the concept of Generics\n9.",
-                "Implement the concept of the lambda expression\n10.",
-                "Implement the concept of a collection framework"
+                "Unit-3",
+                "Teaching Hours: 18",
+                "GENERICS, LAMBDA AND THE COLLECTIONS FRAMEWORK",
+                "Generics",
+                "Generics Concept - General Form of a Generic Class – Bounded Types – Generic Class Hierarchy - Generic Interfaces – Restrictions in Generics.",
+                "Lambda Expression",
+                "Introduction to Lambda expression- Block Lambda Expressions - Generic Functional Interfaces - Passing lambda expressions as arguments - Lambda expressions and exceptions- Lambda expressions and variable capture.",
+                "The Collections Framework",
+                "The Collections Overview – Collection Interface – List Interface – Set Interface – SortedSet Interface – Queue Interface - ArrayList Class – LinkedList Class – HashSet Class – Using an Iterator – The For Each Statement. Working with maps – The map interfaces, the map classes. Comparators- the collection algorithms"
             ],
             "Lab-exercises": [
-                "8. Implement the concept of Generics\n9. Implement the concept of the lambda expression\n10. Implement the concept of a collection framework\n"
+                "8. Implement the concept of Generics",
+                "9. Implement the concept of the lambda expression",
+                "10. Implement the concept of a collection framework"
             ]
         },
         {
             "Teaching-hours": "18",
             "Title": "JAVA BEANS AND JDBC",
             "Contents": [
-                "JDBC\nIntroduction to JDBC- Connecting to the database- Basic JDBC Operations \u2013 Essential JDBC Classes \u2013 JDBC Drivers \u2013 JDBC-ODBC Bridge \u2013 Connecting to a database with driver manager \u2013 JDBC database URL.",
-                "JAVA BEANS \nJava beans - Advantages of Beans \u2013 Introspection- Bound and Constrained Properties \u2013 Persistence \u2013 Customizers - The JavaBeans API.",
-                "JAVA SWING\nSwing Basics \u2013 Components and Containers \u2013 JLabel and ImageIcons- JTextField \u2013 Swing Buttons \u2013 JTabbedPane \u2013 JScrollPane \u2013 JList \u2013 JComboBox \u2013 JTable \u2013 Swing Menus.",
-                "Lab Exercises:\n11.",
-                "Implement the concept of JDBC\n12.",
-                "Implement the concept of java beans\n13.",
-                "13.",
-                "Implement the concept of java swing"
+                "Unit-4",
+                "Teaching Hours: 18",
+                "JAVA BEANS AND JDBC",
+                "JDBC",
+                "Introduction to JDBC- Connecting to the database- Basic JDBC Operations – Essential JDBC Classes – JDBC Drivers – JDBC-ODBC Bridge – Connecting to a database with driver manager – JDBC database URL.",
+                "JAVA BEANS",
+                "Java beans - Advantages of Beans – Introspection- Bound and Constrained Properties – Persistence – Customizers - The JavaBeans API.",
+                "JAVA SWING",
+                "Swing Basics – Components and Containers – JLabel and ImageIcons- JTextField – Swing Buttons – JTabbedPane – JScrollPane – JList – JComboBox – JTable – Swing Menus."
             ],
             "Lab-exercises": [
-                "11. Implement the concept of JDBC\n12. Implement the concept of java beans\n13. 13. Implement the concept of java swing\n"
+                "11. Implement the concept of JDBC",
+                "12. Implement the concept of java beans",
+                "13. 13. Implement the concept of java swing"
             ]
         },
         {
             "Teaching-hours": "18",
             "Title": "JAVA SERVLETS & JSP",
             "Contents": [
-                "JAVA SERVLETS\nServlets Basics \u2013 Life Cycle of a Servlet \u2013A Simple Servlet - The Servlet API \u2013 Servlet Interfaces \u2013 Generic Servlet Class- HttpServletRequest Interface \u2013 HttpServeltResponse\nJSP\nThe JSP development model \u2013 component of jsp page \u2013 Page directive \u2013 Action \u2013 scriptlet \u2013 JSP expression, JSP Syntax and semantics, JSP in XML.",
-                "Lab Exercises:\n14.",
-                "Implement the concept of java servlets\n15.",
-                "Implement the concept of JSP"
+                "Unit-5",
+                "Teaching Hours: 18",
+                "JAVA SERVLETS & JSP",
+                "JAVA SERVLETS",
+                "Servlets Basics – Life Cycle of a Servlet –A Simple Servlet - The Servlet API – Servlet Interfaces – Generic Servlet Class- HttpServletRequest Interface – HttpServeltResponse",
+                "JSP",
+                "The JSP development model – component of jsp page – Page directive – Action – scriptlet – JSP expression, JSP Syntax and semantics, JSP in XML."
             ],
             "Lab-exercises": [
-                "14. Implement the concept of java servlets\n15. Implement the concept of JSP\n"
+                "14. Implement the concept of java servlets",
+                "15. Implement the concept of JSP"
             ]
         }
     ],
